@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+//Testando PHP
+$txt = "Beginning with PHP now! <br> Please be pacient with me!<br>";
+echo $txt;
+
+?> 
+
+</body>
+</html>
